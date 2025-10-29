@@ -2,7 +2,7 @@
 ## A journey through the different eras of Taylor Swift
 ******
 ### Logo:
-#### <img width="1587" height="2245" alt="TS" src="https://github.com/user-attachments/assets/8ed1ab49-d89a-4df5-9352-5c466d0b8c0b" />
+### <img width="200" height="200" alt="Untitled_design__9_-removebg-preview" src="https://github.com/user-attachments/assets/72d2b7fe-4e08-4b96-b4c2-e3990086a087" />
 ### Description: 
 ### This webpage aims to compile all of Taylor Swift's albums and their history so that her fans and even those just discovering her music are able to appreciate not just her music itself, but the background behind it. It will have several features, showing how she made her music, the lyrics to her music, and several visual aids to show her beautiful artistry. As Swifties ourselves, we aim to make this website a comprehensive guide to Taylor's music for the audience.
 ******
