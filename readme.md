@@ -23,8 +23,14 @@
 #### Home Page:
 ### <img width="500" height="500" alt="cs proj proposal" src="https://github.com/user-attachments/assets/8477ea4c-433f-4bd3-bbbc-894d7cec6f5c" />
 #### Album Page:
+### <img width="500" height="500" alt="cs proj proposal (1)" src="https://github.com/user-attachments/assets/cc1b5766-96cf-4c89-9493-13b1e08e0b77" />
 #### Timeline Page:
+### <img width="500" height="500" alt="cs proj proposal (2)" src="https://github.com/user-attachments/assets/2f3a8d60-3003-40c3-a576-5d865b97d044" />
 #### Lyrics Page:
+### <img width="500" height="500" alt="cs proj proposal (3)" src="https://github.com/user-attachments/assets/41dc52c9-a5eb-4a45-a7a2-b274c2e06b9b" />
 #### Concerts Page:
+### <img width="500" height="500" alt="cs proj proposal (4)" src="https://github.com/user-attachments/assets/ac1c7d64-9c91-4747-834b-0bebc690b0a8" />
 #### About TS Page:
+### <img width="500" height="500" alt="cs proj proposal (5)" src="https://github.com/user-attachments/assets/47177cca-2df2-44fc-a646-e096faeb7e8c" />
 #### Sources Page:
+### <img width="500" height="500" alt="cs proj proposal (7)" src="https://github.com/user-attachments/assets/1641ce00-0b15-4f43-8f83-ad7cadb371c9" />
