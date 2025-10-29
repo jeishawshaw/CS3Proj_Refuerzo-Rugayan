@@ -1,8 +1,8 @@
 # Swiftie Verse
 ## A journey through the different eras of Taylor Swift
 ******
-#### Logo:
-#### /for logo picture
+### Logo:
+#### <img width="1587" height="2245" alt="TS" src="https://github.com/user-attachments/assets/8ed1ab49-d89a-4df5-9352-5c466d0b8c0b" />
 ### Description: 
 ### This webpage aims to compile all of Taylor Swift's albums and their history so that her fans and even those just discovering her music are able to appreciate not just her music itself, but the background behind it. It will have several features, showing how she made her music, the lyrics to her music, and several visual aids to show her beautiful artistry. As Swifties ourselves, we aim to make this website a comprehensive guide to Taylor's music for the audience.
 ******
@@ -21,12 +21,9 @@
 ******
 #### Wireframes:
 #### Home Page:
-#### ![Home Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/Home.png)
-#### First Page:
-#### ![First Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/P1.png)
-#### First Page Expanded:
-#### ![First Page Expanded](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/P1%20Expanded.png)
-#### Second Page:
-#### ![Second Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/P2.png)
+#### Album Page:
+#### Timeline Page:
+#### Lyrics Page:
+#### Concerts Page:
+#### About TS Page:
 #### Sources Page:
-#### ![Sources Page](https://github.com/Takuhaya123/Project_MgMananghaya/blob/main/images/Sources.png)
