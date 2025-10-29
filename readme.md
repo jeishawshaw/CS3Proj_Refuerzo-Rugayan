@@ -19,8 +19,9 @@
 #### - Each subpage has a menu at the side in the form of a rectangular figure representing a tire, which will show the other pages.
 #### - The bottom of the pages will contain various information, such as the author of the webpage.
 ******
-#### Wireframes:
+## Wireframes:
 #### Home Page:
+### <img width="500" height="500" alt="cs proj proposal" src="https://github.com/user-attachments/assets/8477ea4c-433f-4bd3-bbbc-894d7cec6f5c" />
 #### Album Page:
 #### Timeline Page:
 #### Lyrics Page:
